@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title></title>
+		<style>
+			body{
+			background-color:#060c45;
+			color:white;
+		
+		
+		
+		
+		
+		
+		</style>
+	
+	
+	
+	
+	</head>
+
+
+
+	<body>
+		<h1 align=center>Study Link</h1>
+		<h2 align=center>Марковський Ігор</h2>
+		<h3 align=center>Неділя 14:00</h3>
+	
+	
+	
+	
+<body>
+
+
+
+
+
+</html>
