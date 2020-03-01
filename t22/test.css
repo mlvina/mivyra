@@ -1,0 +1,89 @@
+body{
+	margin:0;
+	padding:0;
+	
+	
+}
+
+main{
+	background:url("divback.png") #e8f0e5;
+	background-size:50%;
+	background-repeat:no-repeat;
+	width:98%;
+	background-position:95%;
+	height:400px;
+	padding:1%;
+}
+
+.w-60{
+	width:60%;
+	float:left;
+	height:100%;
+	
+}
+
+.w-40{
+	width:40%;
+	float:left;
+	height:100%;
+}
+
+#ff{
+	margin-top: 100px;
+
+
+}
+.text{
+	margin-right:50%;
+	
+}
+
+#cnopka2{
+	text-decoration:none;
+	color:white;
+	margin-right:50%;
+	padding:1%;
+	background-color:black;
+	border-radius:10px;
+}
+
+nav{
+	padding: 0 20px;
+}
+
+nav>a{
+	text-decoration:none;
+	color:black;
+}
+
+#cnopka:hover{
+	border-bottom: 2px solid black;
+
+}
+
+.main{
+	border-bottom: 2px solid black;
+}
+	
+
+article{
+	background:linear-gradient(to right,gray,black);
+	height:400px;
+	
+
+}
+
+.text2{
+	color:white;
+
+	margin-top:30px;
+	
+	
+}
+
+footer{
+	float:left;
+	width:100%;
+	
+	
+}
