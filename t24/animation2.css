@@ -1,0 +1,43 @@
+body{
+	width:1000px;
+	margin: 0 auto;
+	color:navy;
+	font-family:cursive;
+}
+
+.block{
+	padding: 45px 35px;
+	background:lightblue;
+	float:left;
+	margin:5px;
+	box-shadow: 2px 2px 5px darkblue;
+	transition: all 1s ease;
+	padding: 50px 50px;
+	font-size:20px;
+}
+
+.animation:hover{transform:rotatez(15deg) scale(1.05);
+	background:lightgreen;
+	cursor:pointer;
+	box-shadow: 2px 2px 5px green;
+}
+
+.animation2{
+	box-shadow: 2px 2px 5px red;
+	transition: all 0,9s ease;
+	background:red;
+	color:white;
+}
+
+.animation2:hover{
+	background:red;
+	animation-duration: 1s;
+	animation-name: animation;}
+@keyframes animation{
+		0%{transform:rotate(0deg);}
+		20%{transform:rotate(15deg);}
+		40%{transform:rotate(-15deg);}
+		60%{transform:rotate(15deg);}
+		80%{transform:rotate(-15deg);}
+		100%{transform:rotate(0deg);}
+}

@@ -26,7 +26,7 @@ body{margin:0;}
 	
 	@keyframes animation{
 		0%{transform:rotate(0deg);}
-		100%{transform:rotate(400deg);}
+		100%{transform:rotate(3000deg);}
 	}
 	
 	a{text-decoration:none;}
