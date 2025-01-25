@@ -1,2 +1,2 @@
 # pica1000.github.io
-Копии работ со старого аккаунта
+Copy of repository from my old account
